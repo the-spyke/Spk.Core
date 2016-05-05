@@ -1,1 +1,2 @@
 # Spk.Core
+Core components.
